@@ -1,0 +1,2 @@
+# minimal runtime deps; add frappe if you intend to use inside a Frappe site
+# frappe==16.0.0
