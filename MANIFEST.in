@@ -1,0 +1,1 @@
+recursive-include ksa_leave_rules *.json
